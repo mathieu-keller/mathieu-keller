@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Mathieu Keller and I work as a bakend engineer at [Hansecom](https://hansecom.com/en/).
+I am Mathieu Keller and I work as a backend engineer at [Hansecom](https://hansecom.com/en/).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathieu-keller&langs_count=4&theme=codeSTACKr)
 
