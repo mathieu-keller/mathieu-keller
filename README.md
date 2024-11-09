@@ -2,7 +2,7 @@
 **Senior Software Engineer** from Hamburg, Germany, with extensive experience in backend and full-stack development. Passionate about delivering high-quality, scalable software solutions with a focus on efficiency and performance.
 
 ### 🌐 About Me
-- **Languages**: Fluent in **German**, **English**, and **Japanese**
+- **Languages**: Fluent in **German** and **English**; Conversational **Japanese**
 - **Core Skills**:
   - **Backend**: Java, Go, Dropwizard, WildFly, Quarkus, PLSQL
   - **Frontend**: JavaScript, TypeScript, React
