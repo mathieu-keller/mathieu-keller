@@ -22,7 +22,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/mathieu-keller-b68131248/)
+- [LinkedIn](https://www.linkedin.com/in/mathieu-keller/)
 - [GitHub](https://github.com/mathieu-keller)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathieu-keller&langs_count=4&theme=codeSTACKr)
